@@ -1,6 +1,6 @@
 # iCE40UltraPlusMDP-RGBLED
 
-This project is written to control the internal PWM and RGB LED driver.
+Indication RGB LED using RGB Driver and embedded PWM IP
 
 ![Иллюстрация к проекту](https://github.com/AlexKly/iCE40UltraPlusMDP-RGBLED/blob/master/pics/rgb.jpg)
 ![Image alt](https://github.com/AlexKly/iCE40UltraPlusMDP-RGBLED/blob/master/pics/purple_white.jpg)
